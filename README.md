@@ -21,7 +21,7 @@
 </p>
 
 ## Education:
-<img src="[https://styles.redditmedia.com/t5_2vnw3/styles/communityIcon_wshm5n8a6v7c1.png](https://brandfetch.com/amrita.edu?view=library&library=default&collection=logos&asset=idwTAMI22n&utm_source=https%253A%252F%252Fbrandfetch.com%252Famrita.edu&utm_medium=copyAction&utm_campaign=brandPageReferral)" width="20" /> Amrita Vishwa Vidyapeetham: Bachelors in Computer Science 2023-2027  
+<img src="https://brandfetch.com/amrita.edu?view=library&library=default&collection=logos&asset=idYO9DXBsb&utm_source=https%253A%252F%252Fbrandfetch.com%252Famrita.edu&utm_medium=copyAction&utm_campaign=brandPageReferral" width="20" /> Amrita Vishwa Vidyapeetham: Bachelors in Computer Science 2023-2027  
 <img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" /> SRMIST: Bachelors in CSE with Specialization in AI and ML 2023-2027  
 <img src="https://www.iitmandi.ac.in/images/logo_hires.png" width="20" /> IIT Mandi: Minor in Computer Science 2024-2025
 
