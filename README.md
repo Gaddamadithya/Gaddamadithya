@@ -21,7 +21,7 @@
 </p>
 
 ## Education:
-<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Amrita_Vishwa_Vidyapeetham_Logo.png" width="40"/> Amrita Vishwa Vidyapeetham: Bachelors in Computer Science 2023-2027  
+<img src="https://logo.clearbit.com/amrita.edu" width="20"/>  Amrita Vishwa Vidyapeetham: Bachelors in Computer Science 2023-2027  
 
 
 ## 🏆 GitHub Trophies
