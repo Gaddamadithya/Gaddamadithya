@@ -1,27 +1,34 @@
-<h1 align="center">Hi 👋, I'm Gaddam Adithya</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h1 align="center">Uhhhh Welcome to my profile!</h1>
+<h3 align="center">Most of my repositories are private cause of NDAs....confidential stuff and yea…copycats exist </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaddamadithya&label=Profile%20views&color=0e75b6&style=flat" alt="gaddamadithya" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hanush" width="100%">
 
-- 🌱 I’m currently learning **nodejs**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanushrajputh&label=Profile%20views&color=0e75b6&style=flat" alt="hanush" /> </p>
 
-- 💬 Ask me about **MERN,Programming**
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-1F2937?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://gaddamadithya-portfolio.netlify.app/)
 
-- 📫 How to reach me **adithyajagan3@gmail.com**
+<h3 align="left">Let's Connect</h3>
 
-- ⚡ Fun fact **I am Funny**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaddam-adithya/) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Gaddam__Adithya) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaddam_adithya369/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyagaddam369@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaddam-adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaddam-adithya" height="30" width="40" /></a>
-<a href="https://instagram.com/gaddam_adithya369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaddam_adithya369" height="30" width="40" /></a>
+<h3 align="left">Skills:</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,postman,linux,java,mongodb,mysql,react,nodejs,supabase," />
+
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gaddamadithya&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://pacman.abozanona.me?username=Gaddamadithya" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Education:
+<img src="https://styles.redditmedia.com/t5_2vnw3/styles/communityIcon_wshm5n8a6v7c1.png" width="20" /> BITS Pilani: Bachelors in Computer Science 2023-2027  
+<img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" /> SRMIST: Bachelors in CSE with Specialization in AI and ML 2023-2027  
+<img src="https://www.iitmandi.ac.in/images/logo_hires.png" width="20" /> IIT Mandi: Minor in Computer Science 2024-2025
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaddamadithya&show_icons=true&locale=en&layout=compact" alt="gaddamadithya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaddamadithya&show_icons=true&locale=en" alt="gaddamadithya" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gaddamadithya&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaddamadithya&" alt="gaddamadithya" /></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Hanush" width="100%">
+
+> Most of my repositories are private cause of NDAs....confidential stuff and yea…copycats exist
