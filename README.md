@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Hanush" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanushrajputh&label=Profile%20views&color=0e75b6&style=flat" alt="hanush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaddamadithya&label=Profile%20views&color=0e75b6&style=flat" alt="adithya" /> </p>
 
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-1F2937?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://gaddamadithya-portfolio.netlify.app/)
 
